@@ -13,7 +13,9 @@ king-sales-skill/
 │   ├── personas.md             # 六类客户画像、A/B/C/D 分级、双标签体系、背调11招
 │   ├── products.md             # 六大产品线知识、选型逻辑、FAQ 英文话术、12条产品红线
 │   ├── sop-flows.md            # 四类客户成交路径 SOP + 报价策略 + 视频电话展厅 SOP
-│   └── scripts-trust.md        # 全场景话术库、38条高信任金句、22个信任故事
+│   ├── scripts-trust.md        # 全场景话术库、38条高信任金句、22个信任故事
+│   └── deal-cases.md           # 真实成交对话逐步拆解（拉群报价/整柜劝购/定制核价）
+├── DESIGN.md                   # 全部思路与用途说明（必读）
 └── README.md
 ```
 
