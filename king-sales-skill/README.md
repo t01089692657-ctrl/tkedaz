@@ -15,7 +15,8 @@ king-sales-skill/
 │   ├── sop-flows.md            # 四类客户成交路径 SOP + 报价策略 + 视频电话展厅 SOP
 │   ├── scripts-trust.md        # 全场景话术库、38条高信任金句、22个信任故事
 │   └── deal-cases.md           # 真实成交对话逐步拆解（拉群报价/整柜劝购/定制核价）
-├── DESIGN.md                   # 全部思路与用途说明（必读）
+├── King销冠自动回复Skill-使用与方案说明.docx   # ★ 给使用人看的完整说明（Word版，必读）
+├── DESIGN.md                   # 技术版方案说明（给开发者，内容同上）
 └── README.md
 ```
 
